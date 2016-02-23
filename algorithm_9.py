@@ -32,7 +32,7 @@ from AlgoPack.AlgoTradeLib import *
 if __name__ == "__main__":
     # configure input parameters:
     test_period = 2
-    start_date = datetime.date(2016, 2, 20)
+    start_date = datetime.date(2016, 2, 23)
 
     # configure logging module:
     logging.basicConfig(filename='log_file', level=logging.DEBUG)
